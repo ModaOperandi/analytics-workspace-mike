@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+cufflinks = "*"
+folium = "*"
+seaborn = "*"
+
+[packages]
+jupyter = "*"
+notebook = "*"
+matplotlib = "*"
+pandas = "*"
+sklearn = "*"
+fbprophet = "*"
+plotly = "*"
+jupyterlab = "*"
+google-cloud = "*"
+scipy = "*"
+google-cloud-bigquery = "*"
+
+[requires]
+python_version = "3.7"
