@@ -1,0 +1,7 @@
+LINK:
+https://console.cloud.google.com/bigquery/scheduled-queries?project=moda-operandi-dw
+
+SCHEDULED QUERY NAMES:
+team_analytics_project_inven_forecast_actuals_daily_EST	        	Scheduled Query	every day 13:15	us		September 7, 2019 at 9:15:00 AM UTC-4		
+team_analytics_project_inven_forecast_fbprophet_events_inputs		Scheduled Query	every 2 hours	us		September 6, 2019 at 4:06:00 PM UTC-4		
+team_analytics_project_inven_forecast_purchase_orders_estimates		Scheduled Query	every day 13:45	us		September 7, 2019 at 9:45:00 AM UTC-4		

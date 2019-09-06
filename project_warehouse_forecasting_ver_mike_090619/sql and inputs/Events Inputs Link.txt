@@ -1,0 +1,10 @@
+NOTE:
+Model is dependent on "holiday" events which must be inputed for past and future.  Users can input via Google sheets that's tied to scheduled query.
+
+
+GOOGLE SHEETS LINK:
+https://docs.google.com/spreadsheets/d/1Orudf25rY23jNh8I62XlrBYF3MD4Ji0CKXux7FYl2rM/edit?usp=sharing
+
+
+MODEL OUTPUTS LOOKER LINK:
+https://modaoperandi.looker.com/dashboards/229
